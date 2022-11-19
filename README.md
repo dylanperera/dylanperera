@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylanperera
-- 👀 I’m interested in web development
+
 
 
 <!---
