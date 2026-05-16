@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dylanperera
 
+To learn more about me, you can chat with an AI version of me at [AI Dylan Chat Bot](https://huggingface.co/spaces/DylanPerera1/Personal-Chat-Bot)
 
 
 <!---
